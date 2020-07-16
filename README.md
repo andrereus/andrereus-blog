@@ -12,8 +12,6 @@ Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) re
 
 🔥 **This project is featured on Netlify's official [template showcase](https://templates.netlify.com/template/eleventy-netlify-boilerplate/)** 🔥
 
-## [Demo Site](https://eleventy-netlify-boilerplate.netlify.app/)
-
 ## Features
 
 * NEW: Added basic support for post authors, using a simple folder collection
@@ -30,8 +28,6 @@ Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) re
 * Continuous Deployment workflow via Netlify
 
 ## Want to try it out now?
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
 
 Clicking the button above will deploy a copy of the demo website to your Netlify
 account (you can create an account during this process if you don't have one)
