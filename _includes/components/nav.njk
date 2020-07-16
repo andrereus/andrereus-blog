@@ -1,10 +1,10 @@
-<nav>
-  {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
-  {%- for entry in navPages %}
-    <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
-    </li>
-  {%- endfor %}
-  </ul>
-</nav>
+{% set navPages = collections.all | eleventyNavigation %}
+
+<input id="bmenub" type="checkbox" class="show">
+<label for="bmenub" class="burger pseudo button">Menu</label>
+
+<div class="menu">
+{%- for entry in navPages %}
+  <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %} class="pseudo button">{{ entry.title }}</a>
+{%- endfor %}
+</div>

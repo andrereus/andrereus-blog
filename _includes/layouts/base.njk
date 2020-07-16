@@ -6,10 +6,10 @@
 	<body>
 
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
+		    <nav>
+                <a href="{{ '/' | url }}" class="brand"><span>{{ metadata.title }}</span></a>
+                {% include "components/nav.njk" %}
+			</nav>
 		</header>
 
 		<main>
