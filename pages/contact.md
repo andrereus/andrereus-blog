@@ -8,4 +8,3 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-You can contact me here.
