@@ -1,12 +1,23 @@
-main, footer {
-    max-width: 768px;
+header, main, footer {
+    max-width: 960px;
     margin: 0 auto;
 }
 
 main {
-    padding: 50px 20px 0;
+    padding: 20px;
 }
 
 footer {
-    padding: 0 20px 20px;
+    padding: 20px 20px 40px;
+}
+
+nav {
+    position: static;
+    padding: 40px 20px 20px;
+    box-shadow: none;
+    box-sizing: content-box;
+}
+
+nav .brand {
+    padding: 0;
 }
