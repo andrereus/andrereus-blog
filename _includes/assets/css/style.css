@@ -1,4 +1,4 @@
-header, main, footer {
+main, footer {
     max-width: 960px;
     margin: 0 auto;
 }
@@ -16,8 +16,53 @@ nav {
     padding: 40px 20px 20px;
     box-shadow: none;
     box-sizing: content-box;
+    background: none;
+    height: auto;
 }
 
 nav .brand {
     padding: 0;
+}
+
+.heading {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+nav .burger {
+    bottom: inherit;
+}
+
+header {
+    color: #fff;
+    background: #34495e;
+    background: linear-gradient(0deg, #9b59b6, #4aa3df, #1abc9c, #2ecc71, #f1c40f, #e67e22, #e74c3c);
+    background-size: 1400% 1400%;
+
+    -webkit-animation: Animation 60s ease infinite;
+    -moz-animation: Animation 60s ease infinite;
+    -o-animation: Animation 60s ease infinite;
+    animation: Animation 60s ease infinite;
+}
+
+@-webkit-keyframes Animation {
+    0% {background-position: 50% 0%;}
+    50% {background-position: 50% 100%;}
+    100% {background-position: 50% 0%;}
+}
+@-moz-keyframes Animation {
+    0% {background-position: 50% 0%;}
+    50% {background-position: 50% 100%;}
+    100% {background-position: 50% 0%;}
+}
+@-o-keyframes Animation {
+    0% {background-position: 50% 0%;}
+    50% {background-position: 50% 100%;}
+    100% {background-position: 50% 0%;}
+}
+@keyframes Animation {
+    0% {background-position: 50% 0%;}
+    50% {background-position: 50% 100%;}
+    100% {background-position: 50% 0%;}
 }
