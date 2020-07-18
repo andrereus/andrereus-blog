@@ -8,30 +8,60 @@ main {
 }
 
 footer {
-    padding: 20px 20px 40px;
+    padding: 20px;
 }
 
 nav {
     position: static;
-    padding: 40px 20px 20px;
+    padding: 20px;
     box-shadow: none;
     box-sizing: content-box;
     background: none;
     height: auto;
+    overflow: hidden;
+}
+
+nav .brand, nav .burger, nav .menu {
+    -webkit-transform: none;
+    transform: none;
 }
 
 nav .brand {
-    padding: 0;
+    font-weight: normal;
+    line-height: 50px;
 }
 
 .heading {
     max-width: 960px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 10px 20px;
 }
 
 nav .burger {
-    bottom: inherit;
+    bottom: auto;
+}
+
+label {
+    margin-top: 15px;
+    display: block;
+}
+
+.menu {
+    margin-right: -10px;
+}
+
+@media (max-width: 960px) {
+    nav .brand {
+        padding: 0;
+    }
+
+    .menu {
+        color: #111;
+    }
+
+    nav .burger ~ .menu > a {
+        padding: 0.6em 0.9em;
+    }
 }
 
 header {
