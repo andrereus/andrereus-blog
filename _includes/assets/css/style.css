@@ -3,7 +3,6 @@ header {
     background: #34495e;
     background: linear-gradient(0deg, #9b59b6, #4aa3df, #1abc9c, #2ecc71, #f1c40f, #e67e22, #e74c3c);
     background-size: 1400% 1400%;
-
     animation: Animation 60s ease infinite;
 }
 
