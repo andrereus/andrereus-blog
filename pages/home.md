@@ -7,4 +7,6 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-I develop websites and apps
+I design and develop websites and apps.
+
+This website is currently in progress.
