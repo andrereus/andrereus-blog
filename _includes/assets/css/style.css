@@ -1,13 +1,21 @@
+header {
+    color: #fff;
+    background: #34495e;
+    background: linear-gradient(0deg, #9b59b6, #4aa3df, #1abc9c, #2ecc71, #f1c40f, #e67e22, #e74c3c);
+    background-size: 1400% 1400%;
+
+    animation: Animation 60s ease infinite;
+}
+
+@keyframes Animation {
+    0% {background-position: 50% 0%;}
+    50% {background-position: 50% 100%;}
+    100% {background-position: 50% 0%;}
+}
+
 main, footer {
     max-width: 960px;
     margin: 0 auto;
-}
-
-main {
-    padding: 20px;
-}
-
-footer {
     padding: 20px;
 }
 
@@ -31,23 +39,24 @@ nav .brand {
     line-height: 45px;
 }
 
+.menu {
+    margin-right: -10px;
+}
+
+nav .burger {
+    bottom: auto;
+    margin-top: 5px;
+}
+
 .heading {
     max-width: 960px;
     margin: 0 auto;
     padding: 10px 20px;
 }
 
-nav .burger {
-    bottom: auto;
-}
-
 label {
     margin-top: 15px;
     display: block;
-}
-
-.menu {
-    margin-right: -10px;
 }
 
 @media (max-width: 960px) {
@@ -62,37 +71,4 @@ label {
     nav .burger ~ .menu > a {
         padding: 0.6em 0.9em;
     }
-}
-
-header {
-    color: #fff;
-    background: #34495e;
-    background: linear-gradient(0deg, #9b59b6, #4aa3df, #1abc9c, #2ecc71, #f1c40f, #e67e22, #e74c3c);
-    background-size: 1400% 1400%;
-
-    -webkit-animation: Animation 60s ease infinite;
-    -moz-animation: Animation 60s ease infinite;
-    -o-animation: Animation 60s ease infinite;
-    animation: Animation 60s ease infinite;
-}
-
-@-webkit-keyframes Animation {
-    0% {background-position: 50% 0%;}
-    50% {background-position: 50% 100%;}
-    100% {background-position: 50% 0%;}
-}
-@-moz-keyframes Animation {
-    0% {background-position: 50% 0%;}
-    50% {background-position: 50% 100%;}
-    100% {background-position: 50% 0%;}
-}
-@-o-keyframes Animation {
-    0% {background-position: 50% 0%;}
-    50% {background-position: 50% 100%;}
-    100% {background-position: 50% 0%;}
-}
-@keyframes Animation {
-    0% {background-position: 50% 0%;}
-    50% {background-position: 50% 100%;}
-    100% {background-position: 50% 0%;}
 }
