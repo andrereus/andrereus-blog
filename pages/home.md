@@ -10,3 +10,7 @@ eleventyNavigation:
 I design and develop websites and apps.
 
 This website is currently in progress.
+
+<i class="fab fa-github-square"></i>
+
+<span class="ec ec-sparkling-heart"></span>

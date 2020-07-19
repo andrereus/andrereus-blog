@@ -5,8 +5,8 @@ import Page from "/admin/preview-templates/page.js";
 CMS.registerPreviewTemplate("blog", Post);
 CMS.registerPreviewTemplate("pages", Page);
 
-CMS.registerPreviewStyle("/_includes/assets/css/picnic.css");
-CMS.registerPreviewStyle("/_includes/assets/css/style.css");
+CMS.registerPreviewStyle("/theme.css");
+CMS.registerPreviewStyle("/_includes/assets/css/icons/brands.min.css");
 // Register any CSS file on the home page as a preview style
 fetch("/")
   .then(response => response.text())
