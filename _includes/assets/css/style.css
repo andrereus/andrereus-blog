@@ -58,6 +58,28 @@ label {
     display: block;
 }
 
+.projects > ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.social > a {
+    padding: 5px;
+    color: #ccc;
+}
+
+.social > a:hover {
+    color: #000;
+}
+
+.ec {
+    font-size: calc(150%);
+}
+
+.fab {
+    font-size: calc(125%);
+}
+
 @media (max-width: 960px) {
     nav .brand {
         padding: 0;
