@@ -65,7 +65,7 @@ label {
 
 .social > a {
     padding: 5px;
-    color: #ccc;
+    color: #bbb;
 }
 
 .social > a:hover {
@@ -73,7 +73,7 @@ label {
 }
 
 .fab {
-    font-size: calc(125%);
+    font-size: 1.4em;
 }
 
 @media (max-width: 960px) {
