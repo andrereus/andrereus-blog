@@ -13,7 +13,7 @@ header {
 }
 
 main, footer {
-    max-width: 960px;
+    max-width: 750px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -52,7 +52,7 @@ nav .burger {
 }
 
 .heading {
-    max-width: 960px;
+    max-width: 750px;
     margin: 0 auto;
     padding: 10px 20px;
 }
