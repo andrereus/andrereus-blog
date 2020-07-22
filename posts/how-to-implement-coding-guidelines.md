@@ -17,7 +17,7 @@ The answer to that are text editor / IDE settings, formatters and linters. There
 
 ## EditorConfig
 
-EditorConfig defines a few basic settings for files in the editor. They are applied when you create or save a file.
+EditorConfig defines a few basic settings for files in the code editor / IDE. They are applied when you create or save a file.
 
 Sample .editorconfig file:
 
@@ -37,13 +37,13 @@ In some code editors / IDEs you need to install a plugin to activate the setting
 
 ## Prettier
 
-Prettier is an opinionated code formatter for HTML, CSS, JavaScript, Markdown and more. It can be set up to format on save which is very useful.
+Prettier is an opinionated code formatter for HTML, CSS, JavaScript, Markdown and more. It can be set up to format on save, which is very useful.
 
-Note that it is opinionated, so you can't adjust every little detail of the formatter, but most of the settings that are available are enough for most modern projects. See <https://prettier.io/docs/en/options.html> for details.
+Note that it is opinionated, so you can't adjust every little detail of the formatter, but the settings that are available are enough for most modern projects. See <https://prettier.io/docs/en/options.html> for details.
 
 ## ESLint
 
-ESLint is an unopinionated JavaScript linter, this means that all rules can be adjusted. It checks JavaScript for code errors, but also has the option to check stylistic issues. It is a good option for large or legacy projects where every rule that gets checked should be able to be adjusted.
+ESLint is an unopinionated JavaScript linter, this means that all rules can be adjusted. It checks JavaScript for code errors, but also has the option to check stylistic issues. It is a good option for large or legacy projects where every rule needs to be adjustable.
 
 During setup there are a few questions asked:
 
@@ -53,8 +53,10 @@ See <https://eslint.org/> for details.
 
 ## Stylelint
 
-Stylelint is an unopinionated CSS linter. Like for ESLint all rules can be adjusted and it checks CSS for code errors, but also has the option for stylistic issues. The difference to ESLint is that it can't autofix errors.
+Stylelint is an unopinionated CSS linter. Similar to ESLint all rules can be adjusted and it checks CSS for code errors, but also has the option for stylistic issues. The difference to ESLint is that it can't autofix errors.
 
 See <https://stylelint.io/> for details.
 
-**More in this article coming soon.**
+
+
+**More on this article coming soon.**
