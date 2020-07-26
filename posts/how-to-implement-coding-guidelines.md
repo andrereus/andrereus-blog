@@ -3,10 +3,10 @@ title: How to implement Coding Guidelines
 date: 2020-07-22T06:18:21.796Z
 summary: Coding Guidelines are a crucial part of making a codebase with multiple
   contributors consistent, clean, readable and less error prone. But how do you
-  make them easy to follow through and how do you make sure they are met from
-  every single person?
+  make them easy to follow and how do you make sure they are met from every
+  single person?
 ---
-Coding Guidelines are a crucial part of making a codebase with multiple contributors consistent, clean, readable and less error prone. But how do you make them easy to follow through and how do you make sure they are met from every single person?
+Coding Guidelines are a crucial part of making a codebase with multiple contributors consistent, clean, readable and less error prone. But how do you make them easy to follow and how do you make sure they are met from every single person?
 
 The answer to that are text editor / IDE settings, formatters and linters. There are different tools for that, including the most common:
 
