@@ -7,5 +7,4 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
-This website is currently in progress.
+> This website is a Work in Progress.
