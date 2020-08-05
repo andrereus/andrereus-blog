@@ -8,3 +8,5 @@ eleventyNavigation:
   order: 0
 ---
 #### 🚧 This website is a Work in Progress.
+
+I'm a Full Stack Web and App Developer, UX Designer, music producer, photographer and more.
