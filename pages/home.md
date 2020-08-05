@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 #### 🚧 This website is a Work in Progress.
 
-I'm a Full Stack Web and App Developer, UX Designer, music producer, photographer and more.
+Full Stack Web and App Developer, UX Designer, music producer, photographer and more.
