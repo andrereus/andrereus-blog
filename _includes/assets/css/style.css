@@ -1,95 +1,117 @@
 header {
-    color: #fff;
-    background: #34495e;
-    background: linear-gradient(0deg, #9b59b6, #4aa3df, #1abc9c, #2ecc71, #f1c40f, #e67e22, #e74c3c);
-    background-size: 1400% 1400%;
-    animation: Animation 60s ease infinite;
+  color: #fff;
+  background: #34495e;
+  background: linear-gradient(
+    0deg,
+    #9b59b6,
+    #4aa3df,
+    #1abc9c,
+    #2ecc71,
+    #f1c40f,
+    #e67e22,
+    #e74c3c
+  );
+  background-size: 1400% 1400%;
+  animation: Animation 60s ease infinite;
 }
 
 @keyframes Animation {
-    0% {background-position: 50% 0%;}
-    50% {background-position: 50% 100%;}
-    100% {background-position: 50% 0%;}
+  0% {
+    background-position: 50% 0%;
+  }
+  50% {
+    background-position: 50% 100%;
+  }
+  100% {
+    background-position: 50% 0%;
+  }
 }
 
-main, footer {
-    max-width: 750px;
-    margin: 0 auto;
-    padding: 20px;
+main,
+footer {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 footer {
-    padding-bottom: 40px;
+  padding-bottom: 40px;
 }
 
 nav {
-    position: static;
-    padding: 20px;
-    box-shadow: none;
-    box-sizing: content-box;
-    background: none;
-    height: auto;
-    overflow: hidden;
+  position: static;
+  padding: 20px;
+  box-shadow: none;
+  box-sizing: content-box;
+  background: none;
+  height: auto;
+  overflow: hidden;
 }
 
-nav .brand, nav .burger, nav .menu {
-    -webkit-transform: none;
-    transform: none;
+nav .brand,
+nav .burger,
+nav .menu {
+  -webkit-transform: none;
+  transform: none;
 }
 
 nav .brand {
-    font-weight: normal;
-    line-height: 45px;
+  font-weight: normal;
+  line-height: 45px;
 }
 
 .menu {
-    margin-right: -10px;
+  margin-right: -10px;
 }
 
 nav .burger {
-    bottom: auto;
-    margin-top: 5px;
+  bottom: auto;
+  margin-top: 5px;
 }
 
 .heading {
-    max-width: 750px;
-    margin: 0 auto;
-    padding: 10px 20px;
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 10px 20px;
 }
 
 label {
-    margin-top: 15px;
-    display: block;
+  margin-top: 15px;
+  display: block;
 }
 
 .projects > ul {
-    list-style-type: none;
-    padding-left: 0;
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .social > a {
-    padding: 5px;
-    color: #bbb;
+  padding: 5px;
+  color: #bbb;
 }
 
 .social > a:hover {
-    color: #000;
+  color: #000;
 }
 
 .fab {
-    font-size: 1.4em;
+  font-size: 1.4em;
+}
+
+img {
+  max-width: 100%;
 }
 
 @media (max-width: 960px) {
-    nav .brand {
-        padding: 0;
-    }
+  nav .brand {
+    padding: 0;
+  }
 
-    .menu {
-        color: #111;
-    }
+  .menu {
+    color: #111;
+  }
 
-    nav .burger ~ .menu > a {
-        padding: 0.6em 0.9em;
-    }
+  nav .burger ~ .menu > a {
+    padding: 0.6em 0.9em;
+  }
 }
