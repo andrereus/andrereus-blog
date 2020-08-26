@@ -59,5 +59,3 @@ Stylelint is an unopinionated CSS linter. Similar to ESLint all rules can be adj
 See <https://stylelint.io/> for details.
 
 #### 🕒 More on this article coming soon.
-
-<br/>

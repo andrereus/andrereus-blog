@@ -80,11 +80,6 @@ label {
   display: block;
 }
 
-.projects > ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
 .social > a {
   padding: 5px;
   color: #bbb;
@@ -104,6 +99,11 @@ img {
 
 .burger.pseudo.button {
   box-shadow: inset 0 0 0 99em rgba(17, 17, 17, 0.05);
+}
+
+.blog-index {
+  margin-top: 20px;
+  display: block;
 }
 
 @media (max-width: 960px) {
