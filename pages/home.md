@@ -7,8 +7,5 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+
 #### 🚧 This website is a Work in Progress.
-
-Professionally I'm a Full Stack Web and App Developer and a UX Designer.
-
-As a hobby I'm a music producer and photographer.
