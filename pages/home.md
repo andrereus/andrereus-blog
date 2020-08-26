@@ -8,4 +8,16 @@ eleventyNavigation:
   order: 0
 ---
 
-#### 🚧 This website is a Work in Progress.
+#### 🚧 This website is work in progress.
+
+## Latest web apps
+
+[☕ PKU Tools (PWA)](https://pkutools.com/)
+
+[🌀 Simple Nutrition Calculator (PWA)](https://simple-nutrition-calculator.com/)
+
+[🍴 PKU Manager (Hybrid App)](https://pkumanager.com/)
+
+[📝 Phe Rechner (Hybrid App)](https://pherechner.de/)
+
+See more on [GitHub](https://github.com/andrereus).
