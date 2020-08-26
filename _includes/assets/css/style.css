@@ -102,6 +102,10 @@ img {
   max-width: 100%;
 }
 
+.burger.pseudo.button {
+  box-shadow: inset 0 0 0 99em rgba(17, 17, 17, 0.1);
+}
+
 @media (max-width: 960px) {
   nav .brand {
     padding: 0;
