@@ -6,14 +6,15 @@ summary: Coding Guidelines are a crucial part of making a codebase with multiple
   make them easy to follow and how do you make sure they are met from every
   single person?
 ---
+
 Coding Guidelines are a crucial part of making a codebase with multiple contributors consistent, clean, readable and less error prone. But how do you make them easy to follow and how do you make sure they are met from every single person?
 
 The answer to that are text editor / IDE settings, formatters and linters. There are different tools for that, including the most common:
 
-* EditorConfig (Code Editor / IDE Settings)
-* Prettier (Formatter)
-* ESLint (JavaScript Linter)
-* Stylelint (CSS Linter)
+- EditorConfig (Code Editor / IDE Settings)
+- Prettier (Formatter)
+- ESLint (JavaScript Linter)
+- Stylelint (CSS Linter)
 
 ## EditorConfig
 
@@ -23,7 +24,7 @@ Sample .editorconfig file:
 
 ```
 root = true
- 
+
 [*.{js,scss}]
 charset = utf-8
 indent_style = space
@@ -58,3 +59,5 @@ Stylelint is an unopinionated CSS linter. Similar to ESLint all rules can be adj
 See <https://stylelint.io/> for details.
 
 #### 🕒 More on this article coming soon.
+
+<br/>
