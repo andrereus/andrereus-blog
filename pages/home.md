@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 
 Hi, I'm André, a Full Stack Web and App Developer.
-This website is a work in progress.
+This website is a **work in progress**. See social icons in the footer for more.
 
 ## Latest web apps
 
