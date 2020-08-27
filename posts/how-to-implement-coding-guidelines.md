@@ -58,4 +58,6 @@ Stylelint is an unopinionated CSS linter. Similar to ESLint all rules can be adj
 
 See <https://stylelint.io/> for details.
 
-#### 🕒 More on this article coming soon.
+## Conclusion
+
+Initially you can always use an EditorConfig and then it is up to you to decide if you want a quick and "all in one" solution with a formatter like Prettier, or if you want to be able to edit every little detail of linters like ESLint and Stylelint (including linting for code errors).
