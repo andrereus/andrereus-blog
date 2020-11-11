@@ -17,6 +17,5 @@ This website is a test case for a JAMStack CMS with 11ty and Netlify.
 [🍴 PKU Manager (Hybrid App)](https://pkumanager.com/)
 [📝 Phe Rechner (Hybrid App)](https://pherechner.de/)
 
-See more on [GitHub](https://github.com/andrereus).
-
+See more on [GitHub](https://github.com/andrereus).\
 Also see social icons in the footer for more about me.
