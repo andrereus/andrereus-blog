@@ -19,4 +19,4 @@ This website is a test case for a JAMStack CMS with 11ty and Netlify.
 
 See more on [GitHub](https://github.com/andrereus).
 
-Also see social icons below for more about me.
+Also see social icons in the footer for more about me.
