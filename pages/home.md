@@ -7,9 +7,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
-Hi, I'm André, a Full Stack Web and App Developer.
-This website is a **work in progress**. See social icons in the footer for more.
+Hi, I'm André, a Full Stack Web and App Developer.\
+This website is a test case for a JAMStack CMS with 11ty and Netlify.
 
 ## Latest web apps
 
@@ -19,3 +18,5 @@ This website is a **work in progress**. See social icons in the footer for more.
 [📝 Phe Rechner (Hybrid App)](https://pherechner.de/)
 
 See more on [GitHub](https://github.com/andrereus).
+
+Also see social icons below for more about me.
