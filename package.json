@@ -1,7 +1,6 @@
 {
   "name": "andrereus-blog",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
