@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 Hi, I'm André 👋 a Full Stack Web and App Developer.\
-This website is a **test** of a JAMStack CMS with 11ty and Netlify.
+This website was created to **test** the implementation of a typical JAMStack CMS with 11ty and Netlify.
 
 ## Latest web apps
 
