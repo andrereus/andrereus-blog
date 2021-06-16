@@ -17,7 +17,7 @@ Benefits / Comparison:
 
 ## Setup
 
-Download and install it from [https://git-scm.com/](https://git-scm.com/)
+Download and install it from <https://git-scm.com/>
 
 ## GIT Commands
 
@@ -41,7 +41,7 @@ git help -g // GIT Guides
 
 ### GIT Branching in visual form
 
-![GIT Branching](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8pu5h21m48akfpolc913.png)
+![GIT Branching](/static/img/git-branching.png)
 
 ### Branching Commands
 
@@ -51,14 +51,14 @@ git checkout (in future "git switch") // Switch to a branch
 git merge // Merge a branch into an other one
 ```
 
-Playground for GIT Commands: [https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/)
+Playground for GIT Commands: <https://git-school.github.io/visualizing-git/>
 
 ## GIT Client
 
 Some good free GIT Clients (GUIs) are:
 
-- [https://git-fork.com/](https://git-fork.com/)
-- [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+* <https://git-fork.com/>
+* <https://www.sourcetreeapp.com/>
 
 Optional useful Diff Tool: Beyond Compare
 
@@ -66,14 +66,14 @@ Optional useful Diff Tool: Beyond Compare
 
 ### Collaboration (or cloud backup)
 
-![GIT Collaboration](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9izaxoz4ibechdeucxgm.png)
+![GIT Collaboration](/static/img/git-collaboration.png)
 
 ### Hosting services
 
-- [https://github.com/](https://github.com/)
-- [https://bitbucket.org/](https://bitbucket.org/)
-- [https://about.gitlab.com/](https://about.gitlab.com/)
-- [https://azure.microsoft.com/](https://azure.microsoft.com/)
+* <https://github.com/>
+* <https://bitbucket.org/>
+* <https://about.gitlab.com/>
+* <https://azure.microsoft.com/>
 
 ### Collaboration Commands
 
@@ -86,8 +86,8 @@ git push // Upload your content to the server
 
 ## Useful Links
 
-- [https://help.github.com/en/articles/github-glossary](https://help.github.com/en/articles/github-glossary)
-- [https://github.github.com/training-kit/](https://github.github.com/training-kit/)
-- [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/)
-- [https://www.atlassian.com/git/tutorials/setting-up-a-repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-- [https://try.github.io/](https://try.github.io/)
+* <https://help.github.com/en/articles/github-glossary>
+* <https://github.github.com/training-kit/>
+* <http://rogerdudler.github.io/git-guide/>
+* <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
+* <https://try.github.io/>
