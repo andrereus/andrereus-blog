@@ -53,7 +53,7 @@ git merge // Merge a branch into an other one
 
 Playground for GIT Commands: <https://git-school.github.io/visualizing-git/>
 
-## GIT Client
+## GIT Client (GUI)
 
 ![GIT Client](/static/img/git-client.jpg)
 
