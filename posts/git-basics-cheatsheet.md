@@ -55,6 +55,8 @@ Playground for GIT Commands: <https://git-school.github.io/visualizing-git/>
 
 ## GIT Client
 
+![GIT Client](/static/img/git-client.jpg)
+
 Some good free GIT Clients (GUIs) are:
 
 * <https://git-fork.com/>
