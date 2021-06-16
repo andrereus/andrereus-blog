@@ -39,7 +39,7 @@ git help -a // GIT Commands
 git help -g // GIT Guides
 ```
 
-### GIT Branching in visual form
+### GIT Branching visually illustrated
 
 ![GIT Branching](/static/img/git-branching.png)
 
@@ -64,9 +64,9 @@ Some good free GIT Clients (GUIs) are:
 
 Optional useful Diff Tool: Beyond Compare
 
-## Collaboration
+## Collaboration (or cloud backup)
 
-### Collaboration (or cloud backup)
+### Visually illustrated
 
 ![GIT Collaboration](/static/img/git-collaboration.png)
 
