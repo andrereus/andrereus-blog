@@ -1,5 +1,10 @@
 ---
 title: How to implement Coding Guidelines
+metaDescription:
+  Coding Guidelines are a crucial part of making a codebase with multiple
+  contributors consistent, clean, readable and less error prone. But how do you
+  make them easy to follow and how do you make sure they are met from every
+  single person?
 date: 2020-07-22T06:18:21.796Z
 summary: Coding Guidelines are a crucial part of making a codebase with multiple
   contributors consistent, clean, readable and less error prone. But how do you

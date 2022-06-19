@@ -1,10 +1,15 @@
 ---
 title: GIT Basics / Cheatsheet
+metaDescription:
+  Git is a free and open source distributed version control system
+  designed to handle everything from small to very large projects with speed and
+  efficiency.
 date: 2021-06-16T18:58:05.614Z
 summary: Git is a free and open source distributed version control system
   designed to handle everything from small to very large projects with speed and
   efficiency.
 ---
+
 ## What is GIT?
 
 Best short and also official description:
@@ -59,8 +64,8 @@ Playground for GIT Commands: <https://git-school.github.io/visualizing-git/>
 
 Some good free GIT Clients (GUIs) are:
 
-* <https://git-fork.com/>
-* <https://www.sourcetreeapp.com/>
+- <https://git-fork.com/>
+- <https://www.sourcetreeapp.com/>
 
 Optional useful Diff Tool: Beyond Compare
 
@@ -72,10 +77,10 @@ Optional useful Diff Tool: Beyond Compare
 
 ### Hosting services
 
-* <https://github.com/>
-* <https://bitbucket.org/>
-* <https://about.gitlab.com/>
-* <https://azure.microsoft.com/>
+- <https://github.com/>
+- <https://bitbucket.org/>
+- <https://about.gitlab.com/>
+- <https://azure.microsoft.com/>
 
 ### Collaboration Commands
 
@@ -88,8 +93,8 @@ git push // Upload your content to the server
 
 ## Useful Links
 
-* <https://help.github.com/en/articles/github-glossary>
-* <https://github.github.com/training-kit/>
-* <http://rogerdudler.github.io/git-guide/>
-* <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
-* <https://try.github.io/>
+- <https://help.github.com/en/articles/github-glossary>
+- <https://github.github.com/training-kit/>
+- <http://rogerdudler.github.io/git-guide/>
+- <https://www.atlassian.com/git/tutorials/setting-up-a-repository>
+- <https://try.github.io/>
