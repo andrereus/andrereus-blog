@@ -1,12 +1,14 @@
 ---
 layout: layouts/home.njk
 title: Home
+metaDescription: Hi, I'm André 👋 a Full Stack Web and App Developer.
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
+
 Hi, I'm André 👋 a Full Stack Web and App Developer.\
 This website was created to **test** the implementation of a typical JAMStack CMS with 11ty and Netlify.
 
