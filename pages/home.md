@@ -9,15 +9,19 @@ eleventyNavigation:
   order: 0
 ---
 
-Hi, I'm André 👋 a Full Stack Web and App Developer.\
-This website was created to **test** the implementation of a typical JAMStack CMS with 11ty and Netlify.
+Hi, I'm André 👋 a Full Stack Web and App Developer.
 
-## Latest web apps
+### Latest websites
 
-[☕ PKU Tools (PWA)](https://pkutools.com/)
-[🌀 Simple Nutrition Calculator (PWA)](https://github.com/andrereus/simple-nutrition-calculator)
-[🍴 PKU Manager (Hybrid App)](https://pkumanager.com/)
-[📝 Phe Rechner (Hybrid App)](https://pherechner.de/)
+- [🏠 Website](https://andrereus.com/)
+- [☕ PKU Tools (PWA)](https://pkutools.com/)
+- [🌀 Simple Nutrition Calculator (PWA)](https://github.com/andrereus/simple-nutrition-calculator)
+- [🍴 PKU Manager (Hybrid App)](https://pkumanager.com/)
 
-See more on [GitHub](https://github.com/andrereus).\
-Also note the social icons in the footer for more about me.
+### More about me
+
+- [💻 DEV.to](https://dev.to/andrereus)
+- [✏ Codepen](https://codepen.io/andrereus)
+- [🎨 Behance](https://www.behance.net/andrereus)
+
+See more on [GitHub](https://github.com/andrereus).
