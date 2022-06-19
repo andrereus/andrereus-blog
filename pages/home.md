@@ -20,9 +20,7 @@ Hi, I'm André 👋 a Full Stack Web and App Developer.
 
 ### More about me
 
+- [🐙 GitHub](https://github.com/andrereus)
 - [💻 DEV.to](https://dev.to/andrereus)
 - [✏ Codepen](https://codepen.io/andrereus)
-- [📦 CodeSandbox](https://codesandbox.io/u/andrereus)
 - [🎨 Behance](https://www.behance.net/andrereus)
-
-See more on [GitHub](https://github.com/andrereus).
