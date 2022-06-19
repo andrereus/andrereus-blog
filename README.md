@@ -14,7 +14,6 @@ Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) re
 
 ## Features
 
-* NEW: Added basic support for post authors, using a simple folder collection
 * Uses the official [Eleventy Navigation](https://www.11ty.dev/docs/plugins/navigation/) plugin to build menus
 * Sample pages and a blog with tag support
 * Netlify CMS with editor previews (thanks [@biilmann](https://github.com/biilmann)!)
@@ -102,6 +101,11 @@ npx @11ty/eleventy
 Or build automatically when a template changes:
 ```
 npx @11ty/eleventy --watch
+```
+
+Or build and host locally for local development:
+```
+npx @11ty/eleventy --serve
 ```
 
 Or in debug mode:

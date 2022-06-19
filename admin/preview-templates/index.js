@@ -6,8 +6,7 @@ CMS.registerPreviewTemplate("blog", Post);
 CMS.registerPreviewTemplate("pages", Page);
 
 CMS.registerPreviewStyle("/theme.css");
-CMS.registerPreviewStyle("/_includes/assets/css/icons/brands.min.css");
-CMS.registerPreviewStyle("/_includes/assets/css/style.css");
+CMS.registerPreviewStyle("/_includes/assets/css/inline.css");
 // Register any CSS file on the home page as a preview style
 fetch("/")
   .then(response => response.text())

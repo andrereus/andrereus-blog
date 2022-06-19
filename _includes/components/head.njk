@@ -2,17 +2,16 @@
   <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>André Reus | {{ title or renderData.title or metadata.title }}</title>
+  <title>André Reus | {{ renderData.title or title or metadata.title }}</title>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set theme %}
     {% include "theme.njk" %}
   {% endset %}
   <style>{{ theme | cssmin | safe }}</style>
-  <link rel="stylesheet" href="{{ '/_includes/assets/css/icons/brands.min.css' | url }}">
-  {% set style %}
-    {% include "assets/css/style.css" %}
+  {% set css %}
+    {% include "assets/css/inline.css" %}
   {% endset %}
-  <style>{{ style | cssmin | safe }}</style>
+  <style>{{ css | cssmin | safe }}</style>
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
@@ -25,5 +24,4 @@
     })(document);
     smartlook('init', '51508d7ef9ea60c810c1a0f3da2ac08890599a86');
   </script>
-  <script src="https://unreal-thirtysix.andrereus.com/script.js" data-site="ORAEQHMZ" defer></script>
 </head>
