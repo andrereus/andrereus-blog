@@ -24,3 +24,4 @@ Hi, I'm André 👋 a software engineer and designer.
 - [💻 DEV.to](https://dev.to/andrereus)
 - [☁ SoundCloud](https://soundcloud.com/amrdrew)
 - [🎨 Behance](https://www.behance.net/andrereus)
+- [🧑‍🎨 Dribbble](https://dribbble.com/andrereus)
