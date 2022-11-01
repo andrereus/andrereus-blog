@@ -11,10 +11,6 @@ eleventyNavigation:
 
 Hi, I'm André 👋 a software engineer and designer.
 
-### Currently
-
-- [Google UX Design Certificate Course](https://www.coursera.org/professional-certificates/google-ux-design-de)
-
 ### Latest websites
 
 - [☕ PKU Tools (PWA)](https://pkutools.com/)
